@@ -8,5 +8,8 @@ More info here:
 https://appdiz-informatika.hr 
 
 Online profiles: 
+
 https://www.linkedin.com/in/kristijan-bicak/
+
 https://stackoverflow.com/users/7158959/ikik?tab=profile
+
