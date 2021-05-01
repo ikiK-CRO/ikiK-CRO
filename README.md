@@ -9,6 +9,8 @@ https://appdiz-informatika.hr
 
 Online profiles: 
 
+https://www.freecodecamp.org/ikik-cro
+
 https://www.linkedin.com/in/kristijan-bicak/
 
 https://stackoverflow.com/users/7158959/ikik?tab=profile
